@@ -43,6 +43,9 @@ Expect these to receive yet another revision. Genesis is wonderful, but can be c
 ### Hand-picked NPC Visuals
 It is possible that we will spend the time needed to hand-pick the look of each NPC touched by the NPC visual overhauls.
 
+### Character Creation Options
+I am investigating expanding the options available for character customization in LS3.
+
 ### Player Homes
 I may include a few more player homes in LS3.
 
