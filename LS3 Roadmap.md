@@ -1,3 +1,5 @@
+![](https://i.imgur.com/Vokoo6f.png)
+
 # The Road to Living Skyrim 3.0.0
 This list is subject to change at any point.
 
