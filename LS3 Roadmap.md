@@ -3,6 +3,13 @@
 # The Road to Living Skyrim 3.0.0
 This list is subject to change at any point.
 
+## Timeline
+This timeline is current as of 11/6/2020 and is subject to revision or delay as needed.
+
+12/1/2020: Pre-alpha complete, patching and actual work begins.  
+1/2/2021: Alpha complete, first closed Beta available.  
+2/15/2021: Beta complete, public release.  
+
 ## Guaranteed
 ### Stability Above All
 Once again, the most important goal of LS3 will be stability across playthroughs of any length. This has been mostly accomplished with LS2, but with LS3 I'm looking to take it even further. Once again mods that cause issues will be unapologetically removed.
