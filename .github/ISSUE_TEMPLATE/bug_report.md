@@ -3,8 +3,7 @@ name: Bug report
 about: Open a new bug report
 title: ''
 labels: Dev Team, New Bug
-assignees: JaceVenture, TwistedModding, daffodilian, MagnusHellfire, KNGLogan, Day7-J,
-  JaxomofRuatha
+assignees: JaceVenture, TwistedModding, daffodilian, MagnusHellfire, JaxomofRuatha
 
 ---
 
