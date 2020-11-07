@@ -7,7 +7,7 @@ This list is subject to change at any point.
 This timeline is current as of 11/6/2020 and is subject to revision or delay as needed.
 
 12/1/2020: Pre-alpha complete, patching and actual work begins.  
-1/2/2021: Alpha complete, first closed Beta available.  
+1/2/2021: Alpha complete, first Beta available.  
 2/15/2021: Beta complete, public release.  
 
 ## Guaranteed
