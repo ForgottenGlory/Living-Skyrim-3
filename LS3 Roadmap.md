@@ -29,6 +29,9 @@ I will be writing the LS3 readme from scratch, making sure to answer as many com
 ### Combat Gameplay Overhaul, TUDM, and Nemesis
 ~~Nemesis, TUDM. and CGO will once again not be in the list for reasons that are well known.~~ Just kidding. Nemesis and TUDM will be in the list, and possibly Jump Behavior Overhaul and Movement Behavior Overhaul. CGO will (still) not be in the list.
 
+### HUD/UI
+This will be receiving a slight revision to make things a bit more intuitive and user-friendly.
+
 ## Very Likely
 ### The Best of LS1 *and* LS2
 This is going to be a guiding principle of building LS3: I want the performance of LS1 (where anyone with a 6GB+ graphics card can run it at 60FPS with ENB), with the stunning visuals of LS2. I do not know if this is possible, but I'm going to try anyway. Either way, expect LS3 to be more performance friendly.
@@ -74,9 +77,6 @@ As before, things such as CACO and CCOR will not be in LS3. I may investigate mo
 ## Not Changing
 ### CBBE & Bodyslide
 As before, I like CBBE/Bodyslide and they will be staying.
-
-### HUD/UI
-This will not be changing for LS3.
 
 ### Quests
 The quantity and availability of quest mods in LS3 will not be any different from LS2. 
