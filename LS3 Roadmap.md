@@ -26,6 +26,9 @@ In my constant battle to find a balanced and fun overhaul for magic, this will b
 ### A New Readme
 I will be writing the LS3 readme from scratch, making sure to answer as many common questions as possible and address possible issues.
 
+### Combat Gameplay Overhaul, TUDM, and Nemesis
+~~Nemesis, TUDM. and CGO will once again not be in the list for reasons that are well known.~~ Just kidding. Nemesis and TUDM will be in the list, and possibly Jump Behavior Overhaul and Movement Behavior Overhaul.
+
 ## Very Likely
 ### The Best of LS1 *and* LS2
 This is going to be a guiding principle of building LS3: I want the performance of LS1 (where anyone with a 6GB+ graphics card can run it at 60FPS with ENB), with the stunning visuals of LS2. I do not know if this is possible, but I'm going to try anyway. Either way, expect LS3 to be more performance friendly.
@@ -71,9 +74,6 @@ As before, things such as CACO and CCOR will not be in LS3. I may investigate mo
 ## Not Changing
 ### CBBE & Bodyslide
 As before, I like CBBE/Bodyslide and they will be staying.
-
-### Combat Gameplay Overhaul, TUDM, and Nemesis
-Nemesis, TUDM. and CGO will once again not be in the list for reasons that are well known.
 
 ### HUD/UI
 This will not be changing for LS3.
