@@ -27,7 +27,7 @@ In my constant battle to find a balanced and fun overhaul for magic, this will b
 I will be writing the LS3 readme from scratch, making sure to answer as many common questions as possible and address possible issues.
 
 ### Combat Gameplay Overhaul, TUDM, and Nemesis
-~~Nemesis, TUDM. and CGO will once again not be in the list for reasons that are well known.~~ Just kidding. Nemesis and TUDM will be in the list, and possibly Jump Behavior Overhaul and Movement Behavior Overhaul.
+~~Nemesis, TUDM. and CGO will once again not be in the list for reasons that are well known.~~ Just kidding. Nemesis and TUDM will be in the list, and possibly Jump Behavior Overhaul and Movement Behavior Overhaul. CGO will (still) not be in the list.
 
 ## Very Likely
 ### The Best of LS1 *and* LS2
