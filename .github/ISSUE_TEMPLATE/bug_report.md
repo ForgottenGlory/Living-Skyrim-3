@@ -7,7 +7,7 @@ assignees: JaceVenture, TwistedModding, daffodilian, MagnusHellfire, JaxomofRuat
 
 ---
 
-**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in MO2's Overwrite folder.
+**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in `[LS Install folder]\mods\Files Generated during playsessions launched with SKSE\NetScriptFramework\Crash`
 
 If possible, please also attach a copy of your most recent save before the issue occurred.**
 
