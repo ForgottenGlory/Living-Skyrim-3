@@ -1,0 +1,20 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 7
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 7
+# Only issues or pull requests with all of these labels are check if stale. Defaults to `[]` (disabled)
+onlyLabels: 
+  - Question
+  - "Follow Up"
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - "Major Bug"
+  - "Readme Improvement"
+  - Reminder
+# Label to use when marking an issue as stale
+staleLabel: stale
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  No followup has been received for this issue, it has been marked as stale automatically and will be automatically closed in 1 week if there is no further activity.
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: false
