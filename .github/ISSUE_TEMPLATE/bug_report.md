@@ -2,8 +2,8 @@
 name: Bug report
 about: Open a new bug report
 title: ''
-labels: Dev Team, New Bug
-assignees: JaceVenture, TwistedModding, daffodilian, MagnusHellfire, JaxomofRuatha
+labels: New Bug
+assignees: ''
 
 ---
 
